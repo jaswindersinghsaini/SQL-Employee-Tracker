@@ -62,9 +62,13 @@ Each selection, once completed, will bring back the main menu, unless client sel
 ## Demonstration
 Would you like to see the Employee Tracker in action?
 
-https://drive.google.com/file/d/1f0YA56CGDr22O2E3TqOPoiWJsLU8x1-Q/view?usp=drive_link
+Google Link: https://drive.google.com/file/d/1f0YA56CGDr22O2E3TqOPoiWJsLU8x1-Q/view
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1f0YA56CGDr22O2E3TqOPoiWJsLU8x1-Q/view?usp=drive_link)
+Screencastify: https://app.screencastify.com/manage/videos/JHZInjHaPYz1RM01KXMK
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1f0YA56CGDr22O2E3TqOPoiWJsLU8x1-Q/view)
+
+<video
 
 ## Questions
 Have questions about this project?
