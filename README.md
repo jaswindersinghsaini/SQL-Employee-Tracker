@@ -68,6 +68,8 @@ Screencastify: https://app.screencastify.com/manage/videos/JHZInjHaPYz1RM01KXMK
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1f0YA56CGDr22O2E3TqOPoiWJsLU8x1-Q/view)
 
+<br>
+
 <video src="SQL-Employee-Tracker.mp4" controls></video>
 
 ## Questions
